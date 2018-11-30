@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41741e12-83c4-425a-a4c0-9662b6789992" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/cover_bg_small_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,11 +20,50 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="78" column="67" lean-forward="true" selection-start-line="77" selection-start-column="47" selection-end-line="78" selection-end-column="67" />
+            <state relative-caret-position="175">
+              <caret line="72" column="52" lean-forward="true" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-26" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-26" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icomoon.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/icomoon.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-26" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magnific-popup.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="154" column="61" lean-forward="true" selection-start-line="154" selection-start-column="61" selection-end-line="154" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -38,18 +76,6 @@
       <file leaf-file-name="cover_bg_1.JPG" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/cover_bg_1.JPG">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="groom-bride.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/groom-bride.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="guest.html" pinned="false" current-in-tab="false">
@@ -84,6 +110,7 @@
       <find>wed-c</find>
       <find>bride</find>
       <find>url</find>
+      <find>fh5co-cover</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -95,6 +122,7 @@
         <option value="$PROJECT_DIR$/groom-bride.html" />
         <option value="$PROJECT_DIR$/guest.html" />
         <option value="$PROJECT_DIR$/when-where.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -127,7 +155,7 @@
             <path>
               <item name="weddingInvitation" type="b2602c69:ProjectViewProjectNode" />
               <item name="weddingInvitation" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,12 +225,12 @@
       <updated>1538310767576</updated>
       <workItem from="1538310770589" duration="3343000" />
       <workItem from="1543322851612" duration="4936000" />
-      <workItem from="1543551279999" duration="860000" />
+      <workItem from="1543551279999" duration="1291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9139000" />
+    <option name="totallyTimeSpent" value="9570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="698" extended-state="6" />
@@ -330,10 +358,39 @@
     <entry file="file://$PROJECT_DIR$/images/cover_bg_1.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/icomoon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="154" column="61" lean-forward="true" selection-start-line="154" selection-start-column="61" selection-end-line="154" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="78" column="67" lean-forward="true" selection-start-line="77" selection-start-column="47" selection-end-line="78" selection-end-column="67" />
+        <state relative-caret-position="175">
+          <caret line="72" column="52" lean-forward="true" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
